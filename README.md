@@ -1,2 +1,2 @@
-# SlaveValueCalculator
-Simply python oop implementation to calculate a slave's value based on various factors
+# Python Projects
+Repo to store various stupid shit I write in python
